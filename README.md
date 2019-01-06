@@ -7,7 +7,7 @@ Terdapat 4 label tingkat kepuasan pelanggan terhadap toko
     4. Sangat Puas
     
 ## Getting Started
-Berikut merupakan instruksi untuk menggunakan repository ini. Sebelumnya jangan lupa clone dengan cara git clone https://github.com/UdaHarry/sentimen-analisi-olshop atau [download repository ini](https://codeload.github.com/UdaHarry/sentimen-analisi-olshop/zip/master).
+Berikut merupakan instruksi untuk menggunakan repository ini. Sebelumnya jangan lupa clone dengan cara `git clone https://github.com/UdaHarry/sentimen-analisi-olshop` atau [download repository ini](https://codeload.github.com/UdaHarry/sentimen-analisi-olshop/zip/master).
 
 ### Requiere
 [Anaconda 5.3.1 (python 3.7)](https://www.anaconda.com/download/)
