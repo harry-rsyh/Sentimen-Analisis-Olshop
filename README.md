@@ -16,6 +16,6 @@ Berikut merupakan instruksi untuk menggunakan repository ini. Sebelumnya jangan 
 ### Instalasi
 1. Buka Anaconda Prompt.
 2. Jalankan perintah jupyter notebook dan akan terbuka dasbor jupyter pada browser.
-3. Salin folder klasifikasi_sms ke C:/Users/{username}/.
-4. Kembali ke dasbor jupyter, buka folder klasifikasi_sms.
+3. Salin folder Sentimen-Analisis-Olshop-master ke C:/Users/{username}/.
+4. Kembali ke dasbor jupyter, buka folder Sentimen-Analisis-Olshop-master.
 5. Buka file feedback olshop.ipynb.
