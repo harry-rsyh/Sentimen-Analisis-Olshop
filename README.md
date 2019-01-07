@@ -13,8 +13,7 @@ Berikut merupakan instruksi untuk menggunakan repository ini. Sebelumnya jangan 
 - [x] [Anaconda 5.3.1 (python 3.7)](https://www.anaconda.com/download/)
 - [x] Sastrawi
 
-    #### Note!
-    Jika Sastrawi belum terinstall, silahkan jalankan Anaconda Promp ketik `pip install Sastrawi`, jalankan.
+#### Note! Jika Sastrawi belum terinstall, silahkan jalankan Anaconda Promp ketik `pip install Sastrawi`, jalankan.
 
 ### Instalasi
 1. Buka Anaconda Prompt.
