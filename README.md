@@ -11,7 +11,10 @@ Berikut merupakan instruksi untuk menggunakan repository ini. Sebelumnya jangan 
 
 ### Requiered
 - [x] [Anaconda 5.3.1 (python 3.7)](https://www.anaconda.com/download/)
+- [x] Sastrawi
 
+    #### Note!
+    Jika Sastrawi belum terinstall, silahkan jalankan Anaconda Promp ketik `pip install Sastrawi`, jalankan.
 
 ### Instalasi
 1. Buka Anaconda Prompt.
@@ -19,3 +22,4 @@ Berikut merupakan instruksi untuk menggunakan repository ini. Sebelumnya jangan 
 3. Salin folder Sentimen-Analisis-Olshop-master ke C:/Users/{username}/.
 4. Kembali ke dasbor jupyter, buka folder Sentimen-Analisis-Olshop-master.
 5. Buka file feedback olshop.ipynb.
+6. Jalankan
